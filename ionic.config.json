@@ -1,0 +1,7 @@
+{
+  "name": "UAS_20805",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
